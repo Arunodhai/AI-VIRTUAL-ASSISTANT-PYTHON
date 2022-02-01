@@ -1,0 +1,29 @@
+ALFRED is an AI Assistant. It uses deep learning for natural language processing. It can perform so many tasks for you.
+Refer help.py file or type --help in terminal when Alfred is online.
+
+
+Read the following instructions carefully till the end before start using project.
+
+1. Clone or download this project.
+2. Open this project in an IDE.
+3. Go through each file and fill up api keys, auth ids and others stuffs in the specified place holders.
+4. Then install all packages and dependencies specified in each file.
+5. Copy and set path of applications like google chrome , opera etc according to your system.
+6. Go through intents.json file and you can make changes if you want to.
+7. Then RUN the train.py file to construct a neural network and train sample dataset.
+   Always remember to run train.py after making changes in intents.json, then only the changes will reflect.
+8. Now its time to run chat.py.
+9. Just wait until you see 'You : ' in terminal. Only type commands or queries when you see 'You : ' in the terminal.
+10. Now you can type --help for reading user manual. It contains all the usages and its corresponding commands alongs with examples.
+    I suggest you to go through --help before start giving queries and commands.
+
+
+NOTE:-
+       After setting up all the paths, api keys, auth ids etc you can directly run this program from terminal, no need of opening ide everytime.
+       Just navigate to the folder directory in terminal and type 'python chat.py' to boot up this AI Assistant.
+
+
+**************** Feel free to fork this repository in github, add more features and make pull requests. ******************
+
+Creator:-
+            Arunodhai V (arunodhai007@gmail.com) , instagram id = @arunodhai
