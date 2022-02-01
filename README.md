@@ -39,7 +39,7 @@ ALFRED is an AI Assistant. It uses deep learning for natural language processing
            6. calculate the area of square whose side is 5cm.
            7. calculate the square root of 100.
            8. please open google chrome.
-           9. could you tell a joke.
+           9. tell me a joke.
           10. where is burf khalifa
           11. wiki covid-19
           12. wiki Mahatma Gandhi 
@@ -75,4 +75,26 @@ ALFRED is an AI Assistant. It uses deep learning for natural language processing
           Arunodhai V (arunodhai007@gmail.com)
           
           
- # SCREEN SHOTS
+ # SAMPLE SCREEN SHOTS
+ 
+ <img width="1440" alt="Screenshot 2022-02-01 at 1 59 37 PM" src="https://user-images.githubusercontent.com/60264218/151935512-7e56ee67-f4b6-4a64-a3fa-5c69dd288538.png">
+ 
+ <img width="1440" alt="Screenshot 2022-02-01 at 2 04 25 PM" src="https://user-images.githubusercontent.com/60264218/151938477-90c617fc-5f68-4389-8201-c107aab1291d.png">
+
+<img width="1440" alt="Screenshot 2022-02-01 at 2 09 48 PM" src="https://user-images.githubusercontent.com/60264218/151938513-15dc7c98-ed7a-4e7d-bf0b-e9c3be45ae0c.png">
+
+<img width="1440" alt="Screenshot 2022-02-01 at 2 16 15 PM" src="https://user-images.githubusercontent.com/60264218/151938550-480ec727-2157-401d-95ca-2ea3d750459b.png">
+
+<img width="1428" alt="Screenshot 2022-02-01 at 2 15 51 PM" src="https://user-images.githubusercontent.com/60264218/151938601-d190d9bd-53b4-49b5-a672-42452090eea3.png">
+
+<img width="1429" alt="Screenshot 2022-02-01 at 2 17 42 PM" src="https://user-images.githubusercontent.com/60264218/151938628-41277e59-2191-4b50-9b9d-ea9325c7823a.png">
+
+<img width="1440" alt="Screenshot 2022-02-01 at 2 18 55 PM" src="https://user-images.githubusercontent.com/60264218/151938658-1172f6da-9f7f-4394-bae6-159b79508794.png">
+
+<img width="1426" alt="Screenshot 2022-02-01 at 2 19 18 PM" src="https://user-images.githubusercontent.com/60264218/151938682-4bad4a6f-fd8b-42cd-a34f-2aa76440e68e.png">
+
+<img width="1427" alt="Screenshot 2022-02-01 at 2 19 40 PM" src="https://user-images.githubusercontent.com/60264218/151938711-72320a42-cbdc-4be6-976f-b658d0969aba.png">
+
+
+
+
